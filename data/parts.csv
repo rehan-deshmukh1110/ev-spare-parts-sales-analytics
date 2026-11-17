@@ -1,0 +1,39 @@
+part_id,part_name,part_type,category,variant,list_price,unit_cost
+P001,Battery 30Ah - LFP,Battery 30Ah,Battery,LFP,24500,20300
+P002,Battery 30Ah - NMC,Battery 30Ah,Battery,NMC,21500,17960
+P003,Battery 35Ah - LFP,Battery 35Ah,Battery,LFP,28000,23510
+P004,Battery 35Ah - NMC,Battery 35Ah,Battery,NMC,24500,20440
+P005,Battery 45Ah - LFP,Battery 45Ah,Battery,LFP,35500,28560
+P006,Battery 45Ah - NMC,Battery 45Ah,Battery,NMC,31000,25510
+P007,BMS - LFP,BMS,Electronics,LFP,2200,1330
+P008,BMS - NMC,BMS,Electronics,NMC,2000,1250
+P009,Controller - 48V,Controller,Electronics,48V,3800,2540
+P010,Controller - 60V,Controller,Electronics,60V,4300,2800
+P011,Controller - 72V,Controller,Electronics,72V,4900,3170
+P012,DC-DC Converter - 48V,DC-DC Converter,Electronics,48V,1100,660
+P013,DC-DC Converter - 60V,DC-DC Converter,Electronics,60V,1200,760
+P014,DC-DC Converter - 72V,DC-DC Converter,Electronics,72V,1350,820
+P015,Motor PCB,Motor PCB,Electronics,Standard,1400,820
+P016,MOSFET,MOSFET,Electronics,Standard,85,47
+P017,Hub Motor Set - 48V,Hub Motor Set,Motor,48V,9500,7020
+P018,Hub Motor Set - 60V,Hub Motor Set,Motor,60V,11000,8030
+P019,Hub Motor Set - 72V,Hub Motor Set,Motor,72V,12500,9350
+P020,Motor Magnet,Motor Magnet,Motor,Standard,1600,990
+P021,Motor Hall Sensor,Motor Hall Sensor,Motor,Standard,180,99
+P022,Combination Switch - Left,Combination Switch,Electrical,Left,650,390
+P023,Combination Switch - Right,Combination Switch,Electrical,Right,650,380
+P024,L.V. Cable,L.V. Cable,Electrical,Standard,850,500
+P025,Charger Gun with Cable,Charger Gun with Cable,Charging,Standard,2600,1680
+P026,Brake Sensor,Brake Sensor,Brakes,Standard,280,150
+P027,Master Cylinder,Master Cylinder,Brakes,Standard,950,580
+P028,Front Panel - Unpainted,Front Panel,Body (Fiber),Unpainted,1100,650
+P029,Side Panel - Left - Unpainted,Side Panel,Body (Fiber),Left - Unpainted,950,560
+P030,Side Panel - Right - Unpainted,Side Panel,Body (Fiber),Right - Unpainted,950,570
+P031,Bottom Panel - Unpainted,Bottom Panel,Body (Fiber),Unpainted,700,420
+P032,Rear Panel - Unpainted,Rear Panel,Body (Fiber),Unpainted,1200,700
+P033,Floor Board - Unpainted,Floor Board,Body (Fiber),Unpainted,900,530
+P034,Inner Cover - Unpainted,Inner Cover,Body (Fiber),Unpainted,650,400
+P035,Top Cover - Unpainted,Top Cover,Body (Fiber),Unpainted,600,350
+P036,Bottom Cover - Unpainted,Bottom Cover,Body (Fiber),Unpainted,550,330
+P037,Fender - Unpainted,Fender,Body (Fiber),Unpainted,550,330
+P038,Number Plate Bracket - Unpainted,Number Plate Bracket,Body (Fiber),Unpainted,250,150

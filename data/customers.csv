@@ -1,0 +1,151 @@
+customer_id,shop_name,tier,city_id,onboard_date
+S0001,Ample E-Bike Service Centre,C,C01,2026-06-29
+S0002,Delta Motors Hub,C,C01,2026-06-12
+S0004,Bright E-Bike Zone,B,C01,2026-07-13
+S0005,Metro EV Service Centre,B,C01,2026-07-16
+S0006,Sai Auto Hub,C,C01,2026-07-07
+S0007,Smart EV Studio,A,C01,2026-07-25
+S0008,Spark Two Wheeler Hub,C,C01,2026-08-07
+S0009,Eco Motors Service Centre,A,C01,2026-08-06
+S0010,Prime Electric Solutions,B,C01,2026-08-06
+S0011,Swift Motors Care,B,C01,2026-08-12
+S0012,Spark Scooter Garage,C,C01,2026-08-18
+S0013,Sai Two Wheeler Garage,C,C01,2026-08-28
+S0014,Ganesh Scooter Zone,C,C01,2026-06-26
+S0015,Jai EV Clinic,B,C01,2026-06-27
+S0016,Laxmi E-Bike Solutions,C,C01,2026-07-16
+S0017,Sai Motors Zone,C,C01,2026-06-27
+S0018,Vision Scooter Zone,C,C01,2026-09-05
+S0019,Spark E-Bike Service Centre,B,C01,2026-07-02
+S0020,Bright Auto Point,B,C01,2026-08-19
+S0021,Sai Auto Garage,A,C01,2026-08-08
+S0022,Royal Motors Clinic,C,C01,2026-09-17
+S0024,Ganesh Scooter Hub,A,C02,2026-06-13
+S0025,Bright Motors Garage,C,C02,2026-06-24
+S0026,New Electric Studio,C,C02,2026-07-01
+S0027,Delta Auto Care,A,C02,2026-07-02
+S0028,Eco Two Wheeler Point,A,C02,2026-09-04
+S0029,Zen Auto Works,C,C02,2026-07-03
+S0030,Sunrise EV Hub,B,C02,2026-06-26
+S0031,Sunrise EV Works,C,C02,2026-07-13
+S0032,Royal Motors Garage,B,C02,2026-06-20
+S0033,Spark Scooter Hub,A,C02,2026-06-26
+S0034,Ample Moto Solutions,C,C03,2026-06-25
+S0035,Vision Moto Care,C,C03,2026-06-25
+S0036,Jai Electric Hub,A,C03,2026-08-15
+S0037,Delta Motors Zone,B,C03,2026-08-12
+S0038,Metro Two Wheeler Works,B,C03,2026-08-11
+S0039,Urban Electric Studio,A,C03,2026-07-21
+S0040,Power E-Bike Service Centre,B,C03,2026-09-04
+S0041,Unique E-Bike Care,A,C03,2026-09-29
+S0042,Ample Electric Solutions,A,C03,2026-09-21
+S0043,New E-Bike Solutions,C,C03,2026-09-01
+S0044,Royal Moto Studio,B,C03,2026-07-03
+S0045,Jai EV Garage,C,C03,2026-06-05
+S0046,Bright Motors Works,A,C03,2026-08-22
+S0047,Green Motors Solutions,A,C03,2026-08-08
+S0048,E-Wheels Moto Service Centre,C,C03,2026-09-23
+S0049,Delta Motors Studio,C,C03,2026-09-15
+S0050,Prime Electric Studio,C,C04,2026-08-11
+S0051,Zen E-Bike Point,C,C04,2026-07-16
+S0052,Sunrise Auto Care,C,C04,2026-08-11
+S0055,Swift Moto Service Centre,C,C05,2026-08-05
+S0056,Green Scooter Point,B,C05,2026-07-18
+S0057,Urban EV Hub,B,C05,2026-07-25
+S0059,Delta Moto Garage,C,C06,2026-08-08
+S0060,Prime Electric Care,B,C06,2026-07-11
+S0061,Bright Moto Studio,A,C06,2026-07-16
+S0062,E-Wheels Motors Studio,A,C06,2026-08-11
+S0063,Unique Two Wheeler Hub,B,C06,2026-07-29
+S0065,Royal Scooter Clinic,B,C06,2026-07-28
+S0066,Vision Moto Garage,C,C06,2026-09-14
+S0067,Urban Auto Garage,C,C07,2026-09-08
+S0068,Swift EV Zone,A,C07,2026-08-14
+S0071,Classic EV Hub,B,C07,2026-08-26
+S0072,Sai EV Works,C,C08,2026-09-04
+S0073,Sai Auto Point,C,C08,2026-08-24
+S0074,Bright Moto Hub,C,C08,2026-09-25
+S0075,Laxmi Electric Zone,C,C08,2026-09-11
+S0077,Rapid Moto Solutions,A,C09,2026-09-24
+S0078,Spark E-Bike Garage,A,C09,2026-09-30
+S0080,Metro Two Wheeler Clinic,C,C09,2026-09-14
+S0082,Om Two Wheeler Works,A,C10,2026-09-12
+S0084,Spark Auto Studio,C,C10,2026-09-26
+S0085,Eco Electric Solutions,A,C11,2026-06-22
+S0086,E-Wheels Motors Clinic,C,C11,2026-06-27
+S0087,Urban E-Bike Clinic,B,C11,2026-08-11
+S0088,Rapid E-Bike Service Centre,C,C11,2026-08-08
+S0089,Ample EV Garage,A,C11,2026-08-21
+S0090,Zen Auto Care,C,C11,2026-06-15
+S0091,Metro Moto Clinic,C,C11,2026-09-29
+S0092,Spark Two Wheeler Service Centre,C,C11,2026-06-06
+S0093,E-Wheels Two Wheeler Service Centre,B,C11,2026-08-27
+S0095,Bright Moto Care,C,C11,2026-09-03
+S0096,Spark Motors Hub,A,C11,2026-06-30
+S0097,Om EV Works,C,C11,2026-08-10
+S0098,Om EV Zone,C,C12,2026-07-24
+S0099,Power Electric Service Centre,B,C12,2026-08-04
+S0100,Smart E-Bike Care,C,C12,2026-08-13
+S0101,Sai E-Bike Hub,C,C12,2026-09-08
+S0102,Royal E-Bike Zone,B,C12,2026-09-10
+S0103,Urban EV Zone,C,C12,2026-07-13
+S0104,Sai Two Wheeler Zone,C,C12,2026-08-08
+S0105,Star Scooter Point,C,C12,2026-09-23
+S0106,Jai Two Wheeler Care,B,C13,2026-07-16
+S0107,Bright Motors Clinic,C,C13,2026-08-01
+S0108,Swift E-Bike Service Centre,C,C13,2026-08-28
+S0109,Eco E-Bike Garage,C,C13,2026-08-08
+S0110,Laxmi Auto Studio,B,C13,2026-09-08
+S0111,Jai Electric Works,B,C13,2026-08-08
+S0112,Vision E-Bike Hub,B,C14,2026-08-28
+S0113,Ganesh Motors Care,C,C14,2026-08-12
+S0114,Eco Motors Zone,B,C14,2026-08-09
+S0115,Rapid EV Studio,C,C14,2026-09-03
+S0116,Galaxy E-Bike Care,B,C14,2026-09-05
+S0118,Delta Electric Point,C,C15,2026-09-22
+S0120,Spark Motors Studio,B,C16,2026-09-10
+S0121,Power Motors Service Centre,B,C16,2026-09-16
+S0122,Sai Two Wheeler Point,A,C16,2026-09-14
+S0123,Prime Electric Point,B,C17,2026-08-01
+S0124,E-Wheels Moto Studio,B,C17,2026-06-05
+S0125,Classic Two Wheeler Studio,C,C17,2026-09-08
+S0126,Shree E-Bike Garage,A,C17,2026-06-15
+S0127,Vision Electric Studio,B,C17,2026-08-15
+S0128,Om Scooter Zone,A,C17,2026-07-28
+S0129,Laxmi Electric Solutions,C,C17,2026-09-14
+S0130,Volt EV Point,A,C17,2026-08-31
+S0131,Ganesh EV Works,B,C17,2026-09-24
+S0132,Spark Auto Garage,A,C17,2026-06-20
+S0133,Ganesh Two Wheeler Zone,B,C17,2026-07-26
+S0134,Delta Electric Hub,C,C17,2026-08-23
+S0135,Unique Electric Care,B,C17,2026-07-27
+S0136,Vision Two Wheeler Service Centre,C,C17,2026-08-17
+S0137,E-Wheels Scooter Solutions,B,C17,2026-06-18
+S0138,Rapid Auto Point,A,C17,2026-08-29
+S0139,E-Wheels E-Bike Solutions,B,C17,2026-08-07
+S0140,Unique EV Clinic,C,C17,2026-09-11
+S0141,Urban Auto Clinic,C,C17,2026-09-26
+S0142,Ganesh Motors Hub,C,C17,2026-09-12
+S0143,Royal Scooter Point,C,C17,2026-09-16
+S0144,Unique E-Bike Point,C,C17,2026-06-27
+S0145,Ganesh Two Wheeler Studio,B,C17,2026-08-26
+S0146,Swift EV Garage,C,C18,2026-08-03
+S0147,Vision Motors Care,A,C18,2026-07-18
+S0148,Star Motors Service Centre,B,C18,2026-08-20
+S0149,Green Two Wheeler Works,C,C18,2026-07-23
+S0150,Delta Scooter Solutions,B,C18,2026-09-05
+S0151,Vision Auto Point,C,C18,2026-09-08
+S0152,Om Two Wheeler Service Centre,B,C18,2026-09-24
+S0153,Smart Auto Works,B,C18,2026-08-04
+S0154,Metro E-Bike Works,C,C19,2026-09-01
+S0155,New Scooter Garage,C,C19,2026-09-18
+S0156,Galaxy Two Wheeler Works,B,C19,2026-09-04
+S0157,Royal Motors Studio,C,C19,2026-08-03
+S0158,Volt Auto Solutions,A,C19,2026-09-04
+S0159,Bright Two Wheeler Care,B,C19,2026-09-15
+S0160,New Motors Solutions,C,C20,2026-09-23
+S0161,Laxmi EV Point,B,C20,2026-08-29
+S0162,Galaxy Auto Solutions,C,C20,2026-08-29
+S0163,Rapid Scooter Clinic,C,C20,2026-09-09
+S0164,Eco Moto Hub,B,C20,2026-08-23
+S0165,Smart Moto Care,C,C20,2026-08-20

@@ -1,0 +1,21 @@
+city_id,city,state,launch_month,region
+C01,Pune,Maharashtra,2026-06,West
+C02,PCMC,Maharashtra,2026-06,West
+C03,Mumbai,Maharashtra,2026-06,West
+C04,Thane,Maharashtra,2026-07,West
+C05,Navi Mumbai,Maharashtra,2026-07,West
+C06,Nashik,Maharashtra,2026-07,West
+C07,Aurangabad,Maharashtra,2026-08,West
+C08,Kolhapur,Maharashtra,2026-08,West
+C09,Solapur,Maharashtra,2026-09,West
+C10,Nagpur,Maharashtra,2026-09,West
+C11,Surat,Gujarat,2026-06,West
+C12,Ahmedabad,Gujarat,2026-07,West
+C13,Vadodara,Gujarat,2026-07,West
+C14,Rajkot,Gujarat,2026-08,West
+C15,Bhavnagar,Gujarat,2026-09,West
+C16,Gandhinagar,Gujarat,2026-09,West
+C17,Bengaluru,Karnataka,2026-06,South
+C18,Mysuru,Karnataka,2026-07,South
+C19,Mangaluru,Karnataka,2026-08,South
+C20,Hubli-Dharwad,Karnataka,2026-08,South
