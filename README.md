@@ -1,6 +1,6 @@
 # EV Spare Parts Sales Analysis
 
-**Tools:** SQL · Python (pandas, matplotlib) · Power BI (dashboard coming soon)
+**Tools:** SQL · Python (pandas, matplotlib) · Power BI
 
 Sales analysis of an EV two-wheeler spare parts business that started in **June 2026** and grew monthly sales from **₹3 lakh to ₹26 lakh in 3 months**.
 
@@ -36,12 +36,32 @@ Sales analysis of an EV two-wheeler spare parts business that started in **June 
 ![Battery mix](images/battery_mix.png)
 ![Orders by channel](images/channel_mix.png)
 
+## Power BI dashboard
+Two pages built in Power BI Desktop from the 5 CSV files.
+
+**Sales Overview:** 4 KPI cards (Total Sales, Total Orders, Avg Order Value, Units Sold), monthly sales, sales by state, and State / Month filters.
+
+![Sales Overview](images/powerbi_sales_overview.png)
+
+**Parts & Shops:** top 10 parts by sales, batteries LFP vs NMC, orders by channel (WhatsApp vs Direct Call), and sales by shop size.
+
+![Parts & Shops](images/powerbi_parts_and_shops.png)
+
+Measures (DAX):
+```
+Total Sales     = SUM(order_items[net_amount])
+Total Orders    = DISTINCTCOUNT(orders[order_id])
+Avg Order Value = DIVIDE([Total Sales], [Total Orders])
+Units Sold      = SUM(order_items[quantity])
+```
+
 ## Files
 ```
 data/        orders, order_items, customers, cities, parts (CSV)
 sql/         sales_analysis.sql – 9 queries (JOIN, GROUP BY, SUM, HAVING)
 notebooks/   ev_spare_parts_sales.ipynb – analysis and charts in pandas
-images/      charts
+powerbi/     EV_Spare_Parts_Dashboard.pbix – Power BI dashboard
+images/      charts and dashboard screenshots
 ```
 
 ## Author
